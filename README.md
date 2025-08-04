@@ -12,7 +12,7 @@
  
  🔭 I’m currently  **a student**
  
- 🌱 I’m currently learning **React, Docker, AWS**
+ 🌱 I’m currently learning **React, Django, AWS**
 
 ⚡ Fun fact: **I enjoy exploring new technologies and solving complex problems through code**
 
@@ -36,7 +36,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,mysql,git,redux,unity" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,django,flask,fast,javascript,express,mongodb,mysql,git,redux,unity" /><br>
 </div>
 
 <br/>
